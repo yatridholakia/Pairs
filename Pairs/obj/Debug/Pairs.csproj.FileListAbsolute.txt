@@ -1,0 +1,13 @@
+F:\Pairs\Pairs\bin\Debug\Pairs.exe.config
+F:\Pairs\Pairs\bin\Debug\Pairs.exe
+F:\Pairs\Pairs\bin\Debug\Pairs.pdb
+F:\Pairs\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+F:\Pairs\Pairs\obj\Debug\Pairs.Form1.resources
+F:\Pairs\Pairs\obj\Debug\Pairs.Properties.Resources.resources
+F:\Pairs\Pairs\obj\Debug\Pairs.csproj.GenerateResource.Cache
+F:\Pairs\Pairs\obj\Debug\Pairs.exe
+F:\Pairs\Pairs\obj\Debug\Pairs.pdb
+F:\Pairs\Pairs\obj\Debug\Pairs.Game.resources
+F:\Pairs\Pairs\obj\Debug\Interop.MediaPlayer.dll
+F:\Pairs\Pairs\obj\Debug\Interop.WMPLib.dll
+F:\Pairs\Pairs\obj\Debug\Pairs.csproj.ResolveComReference.cache

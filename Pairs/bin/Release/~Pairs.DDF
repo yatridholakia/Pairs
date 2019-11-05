@@ -1,0 +1,49 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=F:\Pairs\Pairs\bin\Release\~Pairs.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=F:\Pairs\Pairs\bin\Release\~Pairs_LAYOUT.INF
+.Set RptFileName=F:\Pairs\Pairs\bin\Release\~Pairs.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+F:\Pairs\Pairs\bin\Release\~Pairs.DDF
+F:\Pairs\Pairs\bin\Release\BALLOO~1.GIF
+F:\Pairs\Pairs\bin\Release\bg.png
+F:\Pairs\Pairs\bin\Release\bgMusic.wav
+F:\Pairs\Pairs\bin\Release\CARD-S~1.JPG
+F:\Pairs\Pairs\bin\Release\DOWNAR~1.GIF
+F:\Pairs\Pairs\bin\Release\FIREWO~1.GIF
+F:\Pairs\Pairs\bin\Release\FIREWO~2.GIF
+F:\Pairs\Pairs\bin\Release\FIREWO~3.GIF
+F:\Pairs\Pairs\bin\Release\Got_Item.wav
+F:\Pairs\Pairs\bin\Release\home.png
+F:\Pairs\Pairs\bin\Release\MUSIC-~1.ICO
+F:\Pairs\Pairs\bin\Release\Pairs.exe
+F:\Pairs\Pairs\bin\Release\PAIRSE~1.CON
+F:\Pairs\Pairs\bin\Release\Pairs.pdb
+F:\Pairs\Pairs\bin\Release\Pairs.PNG
+F:\Pairs\Pairs\bin\Release\Pairs.SED
+F:\Pairs\Pairs\bin\Release\PAIRSV~1.EXE
+F:\Pairs\Pairs\bin\Release\PAIRSV~1.CON
+F:\Pairs\Pairs\bin\Release\PAIRSV~1.MAN
+F:\Pairs\Pairs\bin\Release\PANDA~1.GIF
+F:\Pairs\Pairs\bin\Release\PLAY-B~1.GIF
+F:\Pairs\Pairs\bin\Release\PLAYIN~1.PNG
+F:\Pairs\Pairs\bin\Release\PLAYIN~1.ICO
+F:\Pairs\Pairs\bin\Release\pop.wav
+F:\Pairs\Pairs\bin\Release\restart.png
+F:\Pairs\Pairs\bin\Release\SOUND-~1.PNG
+F:\Pairs\Pairs\bin\Release\sound-on.png
+F:\Pairs\Pairs\bin\Release\woho.gif
